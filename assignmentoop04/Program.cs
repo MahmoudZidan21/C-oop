@@ -37,6 +37,17 @@
             //} 
             #endregion
 
+            ////////////////////////////////////////////////////////////////////
+            ///
+            #region Socend N1
+
+            //Maths m = new Maths();  
+            //Console.WriteLine(m.Add(5,5));
+            // Console.WriteLine(m.Subtract(5,5));
+            // Console.WriteLine(m.Divide(5,5));
+            // Console.WriteLine(m.Multiply(5,5)); 
+            #endregion
+
 
 
 
